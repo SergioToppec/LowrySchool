@@ -83,7 +83,7 @@ Framework de CSS basado en utilidades que permite crear diseños modernos y resp
 
 - **Cómo funciona:**
   - Usa clases predefinidas para estilos como `text-center`, `bg-red-500`, `flex`, etc.
-  - Permite personalizar el diseño mediante la configuración en `tailwind.config.js`.
+  - Permite personalizar el diseño mediante la configuración en `index.ccs`.
 
 ## Cómo Ejecutar el Proyecto
 
